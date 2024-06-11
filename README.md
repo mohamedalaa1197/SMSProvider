@@ -28,4 +28,5 @@ This Microservice Application enables the sending of SMS messages using differen
        dotnet run
 5. -Testing the APIs
    -Use Swagger to test the various API endpoints provided by the service.
+   - When sending SMS please add the country code to the Phone number
 
