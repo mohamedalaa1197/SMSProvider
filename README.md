@@ -8,6 +8,7 @@ This Microservice Application enables the sending of SMS messages using differen
 ### Prerequisites
 - **.NET SDK**: Ensure you have the .NET SDK installed on your machine.
 - **SQL Server**: Set up a local MS SQL database.
+- **SMS PRoviders User Secrets**
 
 ### Setup Instructions
 
