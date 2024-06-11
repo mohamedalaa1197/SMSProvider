@@ -5,6 +5,7 @@
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<RootNamespace>SMSProvider</RootNamespace>
+		<UserSecretsId>d7d36f99-ed53-4766-86c7-faf6c4fb1281</UserSecretsId>
 	</PropertyGroup>
 
 	<ItemGroup>
