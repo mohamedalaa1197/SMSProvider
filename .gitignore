@@ -361,3 +361,29 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+
+
+/.idea/
+
+**/.vs/
+
+
+# Exclude all build output directories
+**/bin/
+**/obj/
+
+# Exclude other directories specific to .NET development
+**/packages/
+**/TestResults/
+
+# Exclude user-specific files and environment settings
+*.user
+*.suo
+*.userprefs
+
+# Exclude the files that store the Visual Studio configuration
+*.sln.docstates
+
+.vs/
